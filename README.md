@@ -6,6 +6,7 @@ I'm Ekrem, .Net Developer from Turkey.
 ### What I use
 [![My Skills](https://skillicons.dev/icons?i=python,dotnet,js,jquery,html,css,django,mongodb,mysql,postgres,nestjs,nodejs,vue,rabbitmq,redis)](https://skillicons.dev)
 
+<hr>
 
 Subjects required for learning and their progression.
 Trainings followed for learning.
