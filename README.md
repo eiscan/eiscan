@@ -3,23 +3,18 @@
 Welcome to my page!
 I'm Ekrem, .Net Developer from Turkey.
 
-# Think I code with
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-<!--
-**eiscan/eiscan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+### What I use
+[![My Skills](https://skillicons.dev/icons?i=python,dotnet,js,jquery,html,css,django,mongodb,mysql,postgres,nestjs,nodejs,vue,rabbitmq,redis)](https://skillicons.dev)
 
 
+Subjects required for learning and their progression.
+Trainings followed for learning.
+* https://www.udemy.com/course/complete-csharp-masterclass/
+* https://www.udemy.com/course/advanced-topics-csharp/
+* https://www.udemy.com/course/design-patterns-csharp-dotnet/
 
-- 🔭 I’m currently working on C#, .Net, Node.js, SQL, MongoDB
-- 🌱 I’m currently learning C#, .Net
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
+| Main Title  | Title | Percentage(1-100) |
+| ------------- | ------------- | ------------- |
+| Complete-Csharp-MasterClass  | DataTypes And Variables  | 99  |
+|   | Functions / Methods And How To Save Time | 99  |
+|   | Making Decisions  | 99  |
