@@ -19,3 +19,32 @@ Trainings followed for learning.
 | Complete-Csharp-MasterClass  | DataTypes And Variables  | 99  |
 |   | Functions / Methods And How To Save Time | 99  |
 |   | Making Decisions  | 99  |
+|   | Loops | 99 |
+|   | Object Oriented Programming(OOP) | 99 |
+|   | Collections in C# | 99 |
+|   | Debugging | 99 |
+|   | Inheritence And More About OOP | 99 |
+|   | Polymorphism And Even More On OOP + Text Files | 99 |
+|   | Advanced C# Topics | 99 |
+|   | Events and Delegates | 99 |
+|   | WPF - Windows Presentation Foundation | 99 |
+|   | Using Databases With C# | 99 |
+|   | Linq | 99 |
+|   | WPF Project - Currency Converter with GUI Database Abd API | 99 |
+|   | Threads | 99 |
+| Advanced Topics in C# | Numeric | 99 |
+|   | Reflection | 99 |
+|   | Dynamic Programming | 99 |
+|   | Extension Methods | 99 |
+|   | Memory Management | 99 |
+|   | Assorted Topics | 99 |
+| Design Patterns | Factories | 0 |
+|   | Singleton | 0 |
+|   | Composite | 0 |
+|   | Decorator | 0 |
+|   | Proxy | 0 |
+|   | Chain of Responsibility | 0 |
+|   | Command | 0 |
+|   | Mediator | 0 |
+|   | Strategy | 0 |
+|   | Visitor | 0 |
