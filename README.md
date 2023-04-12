@@ -51,3 +51,4 @@ Trainings followed for learning.
 | Extra Topics | Data Structures | 0 |
 |   | Clean Code | 0 |
 |   | Elasticsearch | 0 |
+|   | Performance And Optimization | 0 |
