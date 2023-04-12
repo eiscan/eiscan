@@ -52,3 +52,4 @@ Trainings followed for learning.
 |   | Clean Code | 0 |
 |   | Elasticsearch | 0 |
 |   | Performance And Optimization | 0 |
+|   | Domain Driven Design | 0 |
