@@ -16,29 +16,29 @@ Trainings followed for learning.
 
 | Main Title  | Title | Percentage(1-100) |
 | ------------- | ------------- | ------------- |
-| Complete-Csharp-MasterClass  | DataTypes And Variables  | 99  |
-|   | Functions / Methods And How To Save Time | 99  |
-|   | Making Decisions  | 99  |
-|   | Loops | 99 |
-|   | Object Oriented Programming(OOP) | 99 |
-|   | Collections in C# | 99 |
-|   | Debugging | 99 |
-|   | Inheritence And More About OOP | 99 |
-|   | Polymorphism And Even More On OOP + Text Files | 99 |
-|   | Advanced C# Topics | 99 |
-|   | Events and Delegates | 99 |
-|   | WPF - Windows Presentation Foundation | 99 |
-|   | Using Databases With C# | 99 |
-|   | Linq | 99 |
-|   | WPF Project - Currency Converter with GUI Database Abd API | 99 |
-|   | Threads | 99 |
-| Advanced Topics in C# | Numeric | 99 |
-|   | Reflection | 99 |
-|   | Dynamic Programming | 99 |
-|   | Extension Methods | 99 |
-|   | Memory Management | 99 |
-|   | Assorted Topics | 99 |
-| Design Patterns | Factories | 0 |
+| Complete-Csharp-MasterClass  | DataTypes And Variables  | Completed  |
+|   | Functions / Methods And How To Save Time | Completed  |
+|   | Making Decisions  | Completed  |
+|   | Loops | Completed |
+|   | Object Oriented Programming(OOP) | Completed |
+|   | Collections in C# | Completed |
+|   | Debugging | Completed |
+|   | Inheritence And More About OOP | Completed |
+|   | Polymorphism And Even More On OOP + Text Files | Completed |
+|   | Advanced C# Topics | Completed |
+|   | Events and Delegates | Completed |
+|   | WPF - Windows Presentation Foundation | Completed |
+|   | Using Databases With C# | Completed |
+|   | Linq | Completed |
+|   | WPF Project - Currency Converter with GUI Database Abd API | Completed |
+|   | Threads | Completed |
+| Advanced Topics in C# | Numeric | Completed |
+|   | Reflection | Completed |
+|   | Dynamic Programming | Completed |
+|   | Extension Methods | Completed |
+|   | Memory Management | Completed |
+|   | Assorted Topics | Completed |
+| Design Patterns | Factories | InProgress |
 |   | Singleton | 0 |
 |   | Composite | 0 |
 |   | Decorator | 0 |
