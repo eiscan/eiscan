@@ -39,17 +39,17 @@ Trainings followed for learning.
 |   | Memory Management | Completed |
 |   | Assorted Topics | Completed |
 | Design Patterns | Factories | InProgress |
-|   | Singleton | 0 |
-|   | Composite | 0 |
-|   | Decorator | 0 |
-|   | Proxy | 0 |
-|   | Chain of Responsibility | 0 |
-|   | Command | 0 |
-|   | Mediator | 0 |
-|   | Strategy | 0 |
-|   | Visitor | 0 |
-| Extra Topics | Data Structures | 0 |
-|   | Clean Code | 0 |
-|   | Elasticsearch | 0 |
-|   | Performance And Optimization | 0 |
-|   | Domain Driven Design | 0 |
+|   | Singleton |  |
+|   | Composite |  |
+|   | Decorator |  |
+|   | Proxy |  |
+|   | Chain of Responsibility |  |
+|   | Command |  |
+|   | Mediator |  |
+|   | Strategy |  |
+|   | Visitor |  |
+| Extra Topics | Data Structures |  |
+|   | Clean Code |  |
+|   | Elasticsearch |  |
+|   | Performance And Optimization |  |
+|   | Domain Driven Design |  |
