@@ -14,7 +14,7 @@ Trainings followed for learning.
 * https://www.udemy.com/course/advanced-topics-csharp/
 * https://www.udemy.com/course/design-patterns-csharp-dotnet/
 
-| Main Title  | Title | Percentage(1-100) |
+| Main Title  | Title | Status |
 | ------------- | ------------- | ------------- |
 | Complete-Csharp-MasterClass  | DataTypes And Variables  | Completed  |
 |   | Functions / Methods And How To Save Time | Completed  |
