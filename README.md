@@ -38,8 +38,9 @@ Trainings followed for learning.
 |   | Extension Methods | Completed |
 |   | Memory Management | Completed |
 |   | Assorted Topics | Completed |
-| Design Patterns | Factories | InProgress |
-|   | Singleton |  |
+| Design Patterns | Factory | Completed |
+|   | Abstract Factory | Completed |
+|   | Singleton | InProgress |
 |   | Composite |  |
 |   | Decorator |  |
 |   | Proxy |  |
