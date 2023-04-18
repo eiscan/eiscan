@@ -40,8 +40,8 @@ Trainings followed for learning.
 |   | Assorted Topics | Completed |
 | Design Patterns | Factory | Completed |
 |   | Abstract Factory | Completed |
-|   | Singleton | InProgress |
-|   | Composite |  |
+|   | Singleton | Completed |
+|   | Composite | Completed |
 |   | Decorator |  |
 |   | Proxy |  |
 |   | Chain of Responsibility |  |
