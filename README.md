@@ -42,7 +42,7 @@ Trainings followed for learning.
 |   | Abstract Factory | Completed |
 |   | Singleton | Completed |
 |   | Composite | Completed |
-|   | Decorator |  |
+|   | Decorator | InProgress |
 |   | Proxy |  |
 |   | Chain of Responsibility |  |
 |   | Command |  |
