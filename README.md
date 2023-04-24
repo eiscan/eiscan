@@ -42,8 +42,8 @@ Trainings followed for learning.
 |   | Abstract Factory | Completed |
 |   | Singleton | Completed |
 |   | Composite | Completed |
-|   | Decorator | InProgress |
-|   | Proxy |  |
+|   | Decorator | Completed |
+|   | Proxy | InProgress |
 |   | Chain of Responsibility |  |
 |   | Command |  |
 |   | Mediator |  |
