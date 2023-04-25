@@ -45,8 +45,8 @@ Trainings followed for learning.
 |   | Decorator | Completed |
 |   | Proxy | InProgress |
 |   | Chain of Responsibility | Completed |
-|   | Command | InProgress |
-|   | Mediator |  |
+|   | Command | Completed |
+|   | Mediator | InProgress |
 |   | Strategy |  |
 |   | Visitor |  |
 | Extra Topics | Data Structures |  |
