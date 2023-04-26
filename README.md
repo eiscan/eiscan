@@ -43,11 +43,11 @@ Trainings followed for learning.
 |   | Singleton | Completed |
 |   | Composite | Completed |
 |   | Decorator | Completed |
-|   | Proxy | InProgress |
+|   | Proxy |  |
 |   | Chain of Responsibility | Completed |
 |   | Command | Completed |
-|   | Mediator | InProgress |
-|   | Strategy |  |
+|   | Mediator | Completed |
+|   | Strategy | InProgress |
 |   | Visitor |  |
 | Extra Topics | Data Structures |  |
 |   | Clean Code |  |
