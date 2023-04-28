@@ -47,8 +47,8 @@ Trainings followed for learning.
 |   | [Chain Of Responsibility](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/ChainOfResponsibilityDesignPattern "Go to Chain Of Responsibility Design Pattern") | Completed |
 |   | [Command](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CommandDesignPattern "Go to Command Design Pattern") | Completed |
 |   | [Mediator](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/MediatorDesignPattern "Go to Mediator Design Pattern") | Completed |
-|   | Strategy | InProgress |
-|   | Visitor |  |
+|   | [Strategy](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/MediatorDesignPattern "Go to Strategy Design Pattern") | Completed |
+|   | Visitor | InProgress |
 | Extra Topics | Data Structures |  |
 |   | Clean Code |  |
 |   | Elasticsearch |  |
