@@ -43,12 +43,12 @@ Trainings followed for learning.
 |   | [Singleton](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/SingletonDesignPattern "Go to Singleton Design Pattern") | Completed |
 |   | [Composite](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CompositeDesignPattern "Go to Composite Design Pattern") | Completed |
 |   | [Decorator](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/DecoratorDesignPattern "Go to Decorator Design Pattern") | Completed |
-|   | Proxy |  |
+|   | Proxy | InProgress |
 |   | [Chain Of Responsibility](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/ChainOfResponsibilityDesignPattern "Go to Chain Of Responsibility Design Pattern") | Completed |
 |   | [Command](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CommandDesignPattern "Go to Command Design Pattern") | Completed |
 |   | [Mediator](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/MediatorDesignPattern "Go to Mediator Design Pattern") | Completed |
-|   | [Strategy](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/MediatorDesignPattern "Go to Strategy Design Pattern") | Completed |
-|   | Visitor | InProgress |
+|   | [Strategy](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/StrategyDesignPattern "Go to Strategy Design Pattern") | Completed |
+|   | [Visitor](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/VisitorDesignPattern "Go to Visitor Design Pattern") | Completed |
 | Extra Topics | Data Structures |  |
 |   | Clean Code |  |
 |   | Elasticsearch |  |
