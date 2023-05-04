@@ -43,7 +43,7 @@ Trainings followed for learning.
 |   | [Singleton](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/SingletonDesignPattern "Go to Singleton Design Pattern") | Completed |
 |   | [Composite](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CompositeDesignPattern "Go to Composite Design Pattern") | Completed |
 |   | [Decorator](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/DecoratorDesignPattern "Go to Decorator Design Pattern") | Completed |
-|   | Proxy | InProgress |
+|   | [Proxy](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/ProxyDesignPattern "Go to Proxy Design Pattern") | Completed |
 |   | [Chain Of Responsibility](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/ChainOfResponsibilityDesignPattern "Go to Chain Of Responsibility Design Pattern") | Completed |
 |   | [Command](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/CommandDesignPattern "Go to Command Design Pattern") | Completed |
 |   | [Mediator](https://github.com/ProgrammingLessons/DesignPatterns/tree/main/MediatorDesignPattern "Go to Mediator Design Pattern") | Completed |
